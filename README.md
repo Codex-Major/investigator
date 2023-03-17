@@ -21,6 +21,7 @@ Ideas and suggestions to improve the tool are welcome <br>
 - Search in shodan.io
 - Search in grep.app
 - Check Security Headers
+- Dark mode toggle
 
 <br>
 Disclaimer: This project was created for educational purposes only and should not be used in environments without legal authorization.
